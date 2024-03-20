@@ -1,0 +1,287 @@
+body{
+background-color:cornsilk ;
+opacity: 0,9;
+padding-left: 20px;
+padding-right: 30px;
+padding-top: 40px;
+padding-bottom: 40px;
+margin-right: 100px;
+cursor: pointer;
+border-color:red;
+opacity: 0.9;
+}
+
+
+
+
+
+
+ul li{
+  list-style-type:none;
+  padding: 0px;
+  margin:0px;
+  display:inline;
+  margin-right: 20px;
+}
+
+#navbar{
+  
+  position: fixed;
+  top: 0;
+  width: 96%;
+  margin-top: 0px;
+  margin-bottom:25px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: darkslateblue;
+  opacity: 0,9;
+  margin-right: none;
+  margin-left: 0px;
+  cursor: pointer;
+  background-attachment: fixed;
+  background-color:whitesmoke;
+  opacity: 0.9;
+  border-radius: 13px;
+  padding: 7px;
+ 
+}
+
+
+#navbar:hover{
+color: cornflowerblue;
+cursor:pointer;
+
+}
+
+
+
+
+
+
+
+.First-heading{
+  background-color:rgba(255, 255, 255, 0.952);
+  color: brown;
+  text-align:center;
+  margin-top: 110px;
+  margin-bottom: 60px;
+  position: fixed;
+  margin-left: 4px;
+  margin-right: 2px;
+  text-decoration-style: double;
+  border-style:ridge;
+  border-color: black;
+  border-left:black;
+  opacity: 0.9;
+  border-right: none;
+  
+}
+
+
+
+.back{
+  margin-top: 60px;
+  text-align:right;
+  border-radius: 5px;
+  padding: 20px;
+  font-style:normal;
+  font-weight: bolder;
+  font-size: large;  
+  margin-top: 100px;
+}
+
+
+.end{
+  
+  color: darkred;
+  opacity: 0.9;
+  font-weight: bolder;
+  font-size:medium;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-bottom: 6px;
+  margin-left:90px;
+  display: block; 
+  text-align:center; 
+  
+}
+.second-heading{
+  
+  color:purple;
+  opacity: 0.9;
+  font-size:x-large;
+  font-weight:bolder;
+  margin-bottom:70px;
+  margin-top :180px;
+  
+}
+.top img{
+  display:block;
+  padding-top: 140px;
+  padding-right: 50px;
+  text-align:justify;
+  font-size:larger;
+  font-style: oblique;
+  color: black;
+  opacity: 0.9;
+  font-weight: bolder;
+  margin-top: 80px;
+}
+
+
+.caption{
+  padding-top: 1px;
+  display: block;
+  text-align: center;
+  font-size: medium;
+  font-style: oblique;
+  color: black;
+  font-weight: bolder;
+}
+.message{
+  font-weight: bolder;
+  color:rgb(156, 24, 95);
+  opacity: 0,9;
+  text-align:center;
+  font-size:larger;
+  font-style: oblique;
+
+}
+.input{
+  width: 100%;
+  font-weight: bolder;
+  text-align:justify;
+  font-size:larger;
+  font-style:normal;
+  color: crimson;
+  opacity: 0,9;
+  padding-left: 3px;
+ list-style-type:none;
+  margin:0px;
+  display:inline;
+}
+.type{
+  font-weight: bolder;
+  text-align:center;
+  font-size:larger;
+  font-style:normal;
+  color:rgb(211, 198, 19);
+  opacity: 0,9;
+  padding-left:2px;
+}
+
+button{
+  padding-top: 2px;
+  padding-left:10px;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: cornflowerblue;
+  opacity: 0,9;
+  font-weight: bolder;
+  font-size: larger;
+  font-style: italic;
+  
+}
+
+.social-icons{
+  text-align: center;
+  height: 20px;
+
+}
+
+
+
+  /*display:grid;
+  grid: template rows 10px; 
+  justify-content: space-between; */  
+
+
+.social-icons a{
+  display:inline-block;
+  margin-top: 30px;
+  margin-bottom: 4px;
+  margin-right: 8px;
+  
+}
+
+.social-icons img{
+  max-width: 50px;
+  height:auto;
+  margin-right:14px ;
+}
+
+.text{
+  text-align: justify;
+  font-size:larger;
+  font-style: oblique;
+  color: black;
+  font-weight: bolder; 
+
+}
+
+tr,th,td{
+  border:solid;
+  border-radius: 3px;
+  border-color: hotpink;
+  padding: auto;
+  border-width: 10px;
+  color: coral;
+  font-size:larger;
+  font-style: oblique;
+  font-weight: bolder;
+  opacity: 0,9;
+
+}
+th{
+  background-color: aqua;
+  opacity: 0,9;
+  text-shadow: 40px;
+}
+td{
+  background-color: gold;
+  opacity: 0,9;
+  text-decoration-style: wavy;
+}
+
+
+.social{
+  text-align: justify;
+  height: 2px;
+  position: fixed;
+  margin-top: 10px;
+  background-color: white;
+
+
+}
+
+.social a{
+  display:inline-flex;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  margin-right: 8px;
+   background-color: white;
+
+
+}
+
+
+.social img{
+  max-width: 30px;
+  height:auto;
+  margin-right:14px 
+
+
+}
+
+
+.upper{
+
+
+
+
+}
+
+
+
+
+
